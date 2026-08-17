@@ -40,6 +40,6 @@ Hardware co-op starting **January 2027** — targeting FPGA engineering, RTL des
 
 ## 📫 Contact
 
-📧 gurleenkaurr28@gmail.com  
+📧 gurleen4.kaur@torontomu.ca  
 🔗 [linkedin.com/in/gurleen-kaur-0a38a5241](https://linkedin.com/in/gurleen-kaur-0a38a5241)  
 📍 Toronto, Ontario
