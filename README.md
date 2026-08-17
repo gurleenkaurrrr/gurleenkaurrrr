@@ -32,6 +32,14 @@ General-purpose microcoded processor in VHDL — custom 9-operation ALU, 9-state
 
 ---
 
+**[bookstore-application](https://github.com/gurleenkaurrrr/bookstore-application)**
+Java desktop bookstore management system — layered MVC architecture, State Pattern loyalty rewards system (Silver/Gold tiers), Singleton pattern, Java Swing GUI. *COE528 · Winter 2025*
+
+---
+
+**[noaa-ice-analysis-c](https://github.com/gurleenkaurrrr/noaa-ice-analysis-c)**
+C program analyzing 3 years of real NOAA Great Lakes ice concentration data — statistical analysis with structs, pointers, file I/O, and GNUPlot visualizations across 6 lakes. *CPS188 · Winter 2025*
+
 ## 🎯 Goal
 
 Hardware co-op starting **January 2027** — targeting FPGA engineering, RTL design, and digital design roles at companies building next-generation silicon.
