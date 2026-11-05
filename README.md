@@ -1,6 +1,6 @@
 # Hi, I'm Gurleen 👋
 **Computer Engineering Student @ Toronto Metropolitan University**
-Curious builder across hardware, software, and everything in between · Targeting Co-op 2027
+Curious builder across hardware, software, and everything in between 
 
 ---
 
@@ -40,11 +40,6 @@ Java desktop bookstore management system — layered MVC architecture, State Pat
 ### [noaa-ice-analysis-c](https://github.com/gurleenkaurrrr/noaa-ice-analysis-c)
 C program analyzing 3 years of real NOAA Great Lakes ice concentration data — statistical analysis with structs, pointers, file I/O, and GNUPlot visualizations. *CPS188 · Winter 2025*
 
----
-
-## 🎯 Goal
-
-Looking for a **co-op starting January 2027** — open to hardware, verification/test, and software roles where I can keep learning hands-on.
 
 ---
 
